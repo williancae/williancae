@@ -39,7 +39,7 @@
 </br>  
 </br>  
 
-<h3>Find me on the web:</h3>
+<h3> <img src="https://img.icons8.com/glyph-neue/30/4a90e2/internet.png"/>&nbsp;&nbsp;Find me on the web:</h3>
 
 
 <a style="display: flex; align-items: center; font-size: 20px; text-decoration: underline; margin-left: 9px; margin-bottom: 9px;" href="https://www.linkedin.com/in/willian-cae/">
