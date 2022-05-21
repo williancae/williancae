@@ -16,10 +16,10 @@
     <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" height="25"/>
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="25"/>
     <img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=yellow" height="25"/>
-    <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white" height="25"/>
-    <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white" height="25"/>
+    <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" height="25"/>
+    <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=ts-node&logoColor=white" height="25"/>
     <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=nestjs&logoColor=white" height="25"/>
-    https://img.shields.io/badge/Nestjs-JS-red
+ 
 
 </div>
 
