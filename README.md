@@ -1,60 +1,101 @@
-<h2 style="text-align: center;"><img height="40px" src="https://i1.wp.com/blog.joypixels.com/content/images/2019/06/waving_hand_sign_1024.gif"/>&nbsp; Hey, guys! &nbsp; I'm Willian. </h2> 
-<p style="font-size: 23px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I am a Systems Analyst, passionate about open source systems, I love learning about new technologies. I like programming languages and the wonderful things I can do with them.
+<h1 align="center">
+  Hey, I'm Willian 👋
+</h1>
+
+<h3 align="center">
+  Engenheiro de IA Generativa | Backend Sr. | LLMs · LangChain · RAG
+</h3>
+
+<p align="center">
+  Construindo agentes LLM e sistemas RAG que entregam valor real ao negócio
 </p>
 
-</br>
-<!-- LinkedIn:  -->
+<p align="center">
+  <a href="https://linkedin.com/in/willian-cae">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:williancaecam@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://wa.me/5561983244927">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+</p>
 
-<h2>🚀 Skills</h2>
-<div style="display:flex">    
+---
 
-<div>
-<h3>Backend</h3>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="25"/>
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="25"/>
-    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" height="25"/>
-    <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" height="25"/>
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="25"/>
-    <img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=yellow" height="25"/>
-    <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" height="25"/> 
+## 🤖 Sobre mim
 
-</div>
+Engenheiro de software com 7+ anos construindo sistemas backend escaláveis, 
+especializado nos últimos 2 anos em **IA Generativa aplicada**.
 
-<div>
-<h3>Frontend</h3>
+Trabalho diariamente com:
+- 🧠 **LLMs em produção**: arquitetando agentes autônomos com LangChain e LangGraph
+- 📚 **Sistemas RAG**: pipeline completo de vetorização, embeddings e retrieval
+- 🚀 **APIs escaláveis**: NestJS e FastAPI rodando em AWS Serverless
+- 🤝 **Integração de produto**: WhatsApp, OpenAI, Stripe, e mais
 
+---
 
-<img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" height="25"/>
+## 🛠️ Stack
 
-<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" height="25"/>
+### 🧠 GenAI & LLMs
+![LangChain](https://img.shields.io/badge/LangChain-1C3A3A?style=for-the-badge&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-DC382D?style=for-the-badge)
 
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="25"/>
+### 💻 Linguagens
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
-<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="25"/>
+### 🚀 Backend
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 
-<img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" height="25"/>
-</div>
+### ☁️ Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Serverless](https://img.shields.io/badge/Serverless-FD5750?style=for-the-badge&logo=serverless&logoColor=white)
 
-</div>
-</br>  
-</br>  
+### 💾 Databases & Messaging
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DD0031?style=for-the-badge&logo=redis&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 
-<h3> <img src="https://img.icons8.com/glyph-neue/30/4a90e2/internet.png"/>&nbsp;&nbsp;Find me on the web:</h3>
+---
 
+## 📊 GitHub Stats
 
-<a style="display: flex; align-items: center; font-size: 20px; text-decoration: underline; margin-left: 9px; margin-bottom: 9px;" href="https://www.linkedin.com/in/willian-cae/">
-<img src="https://img.icons8.com/color/30/000000/linkedin.png"/>
-Linkedin
-</a>
-<a style="display: flex; align-items: center; font-size: 20px; text-decoration: underline; margin-left: 9px;" href="https://github.com/williancae">
-<img src="https://img.icons8.com/ios-filled/30/000000/github.png"/>
-Github
-</a>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=williancae&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=williancae&layout=compact&theme=tokyonight" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=williancae&theme=tokyonight" />
+</p>
 
+---
 
+## 🌱 Atualmente explorando
 
+- LangGraph para orquestração de agentes multi-step
+- LangSmith para observabilidade de LLMs em produção
+- Embedding fine-tuning para domínios específicos
+- Multi-modal RAG com imagens e texto
 
+---
 
+## 📫 Vamos conversar?
 
+Sempre aberto pra trocar uma ideia sobre **LLMs em produção**, 
+**arquitetura RAG**, **agentes autônomos** ou backend de alta performance.
 
+📧 williancaecam@gmail.com
+💼 [LinkedIn](https://linkedin.com/in/willian-cae)
+📱 [WhatsApp](https://wa.me/5561983244927)
